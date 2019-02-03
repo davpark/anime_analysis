@@ -7,6 +7,5 @@ This analysis will only be looking at completed TV series that have a rating.
 
 
 Some tasks that need to be completed
-* Better plotting
 * Virtual environment
 * Sklearn
